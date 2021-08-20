@@ -183,49 +183,28 @@ publications:
       authors: Umesh Bodkhe, Jay Chaklasiya, Pooja Shah, Sudeep Tanwar, Maanuj Vora
       conference: "International Conference on Computing, Communications, and Cyber-Security (IC4S 2019)"
 
-skills:
-  title: Skills &amp; Proficiency
+#skills:
+#  title: Skills &amp; Proficiency
 
-  toolset:
-    - name: Python & Django
-      level: 98%
+#  toolset:
+#    - name: Python & Django
+#      level: 98%
 
-    - name: Javascript & jQuery
-      level: 98%
+#    - name: Javascript & jQuery
+#      level: 98%
+#
+#    - name: Angular
+#      level: 98%
+#
+#    - name: HTML5 & CSS
+#      level: 95%
+#
+#    - name: Ruby on Rails
+#      level: 85%
+#
+#    - name: Sketch & Photoshop
+#      level: 60%
 
-    - name: Angular
-      level: 98%
-
-    - name: HTML5 & CSS
-      level: 95%
-
-    - name: Ruby on Rails
-      level: 85%
-
-    - name: Sketch & Photoshop
-      level: 60%
-
-skillspm:
-  title: Skills &amp; Proficiency
-
-  toolset:
-    - name: Python & Django
-      level: 98%
-
-    - name: Javascript & jQuery
-      level: 98%
-
-    - name: Angular
-      level: 98%
-
-    - name: HTML5 & CSS
-      level: 95%
-
-    - name: Ruby on Rails
-      level: 85%
-
-    - name: Sketch & Photoshop
-      level: 60%
 
 footer: >
   Design Credits: <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
