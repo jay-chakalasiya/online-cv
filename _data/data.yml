@@ -76,35 +76,35 @@ experiences:
     time: 10/2020 - 01/2021
     company: Diversity Policy, Seattle
     details: |
-        - Reduced the turnaround time of data processing workflow from **24 hours to 2 minutes** and eliminated reliance on human supervision by transforming the existing data ingestion process utilizing Scrapy and automated ETL pipelines.
-        - Interviewed a team of analysts to define KPIs and user statistics, collaborated with the UI/UX team, and led a group of three interns to design user engagement dashboards using Tableau. Driving a 50% increase in productivity of the marketing team.
-        - Restructured document search engine appropriating key-word based indexing algorithms (RAKE, TF-IDF, and Page-Rank) to improve search speed by 50% and also improved search result relevancy score.
+        - **Reduced the turnaround time** of data processing workflow from **24 hours to 2 minutes** and eliminated reliance on human supervision by transforming the existing data ingestion process utilizing Scrapy and automated ETL pipelines.
+        - Interviewed a team of analysts to define KPIs and user statistics, collaborated with the UI/UX team, and led a group of three interns to design user engagement dashboards using Tableau. **Driving a 50% increase in productivity** of the marketing team.
+        - Restructured document search engine appropriating key-word based indexing algorithms (**RAKE**, **TF-IDF**, and **Page-Rank**) to **improve search speed by 50%** and also improved search result relevancy score.
   - role: Capstone (Spyro.ai) - Product manager & Data Scientist
     time: 05/2020 - 12/2020
     company: University of Washington
     details: |
       Spyro.ai is a student-led capstone project as part of the MS in Technology Innovation at the University of Washington. Backed by thorough research, Spyro.ai was the only approved student-led capstone project for the year 2020. GIX capstone projects are designed to facilitate the interdisciplinary experience for students via end-to-end challenges, from exploration of ideas to user testing of the finished products. During the bi-quarter project, I have worked on user research, market research, prototyping, user testing, business models, and GTM strategy.
-        - Collaborated with Ubicomp lab and Seattle children's to develop a solution to improve Asthma therapy adherence.
-        - Executed 25 interviews and surveyed ~100 Asthma patients followed by data analysis to identify and prioritize pain points.
+        - Collaborated with **Ubicomp lab** and **Seattle children's** to develop a solution to improve Asthma therapy adherence.
+        - Executed **25 interviews** and **surveyed ~100 Asthma patients** followed by data analysis to identify and prioritize pain points.
         - Planned and directed weekly sprints with team to ensure completion of wekly goals, and to mitigate the dependency issues.
-        - Led a cross-functional team of three to prototype a mobile application using React Native, MongoDB, and Azure to facilitate physiological symptom tracking, medication reminders, and doctor-patient communication for Asthma patients.
-        - Integrated Fitbit API and Air Quality Index with the prototype to generate personalized Asthma treatment plans.
-        - Architected web dashboards using Flask, Plotly, and d3.js to visualize and manipulate patient data for medical professionals.
+        - Led a cross-functional team of three to prototype a mobile application using **React Native**, **MongoDB**, and **Azure** to facilitate **physiological symptom tracking**, **medication reminders**, and **doctor-patient communication** for Asthma patients.
+        - Integrated **Fitbit API** and **Air Quality Index** with the prototype to generate **personalized Asthma treatment plans**.
+        - Architected web dashboards using **Flask**, **Plotly**, and **d3.js** to visualize and manipulate patient data for medical professionals.
   - role: Machine Learning Engineer
     time: 01/2018 - 10/2018
     company: Trestle Labs, Nashik, India
     details: |
       Trestle Labs is a leading assistive technology startup in the Edu-Tech domain. Trestle Lab's vision is to provide an interactive learning environment for visually impaired communities in vernacular languages and ultimately increase the living standard for them.
-        - Architected CNN + LSTM based end-to-end OCR system for regional languages using Tensorflow, achieving 92% Acc.
-        - Pioneered a revenue stream and made the printed content more accessible for the visually impaired by digitizing 10k+ old printed books to accessible digital formats utilizing Vision OCR and GCP. Used in-house OCR systems for regional languages not yet available vis Vision OCR services.
-        - Directed usability tests on an in-house mobile application (KIBO) to understand educational requirements of visually impaired and designed features of audio highlighting, content summarization, and auto-linking content with additional online resources.
+        - Architected **CNN + LSTM** based **end-to-end OCR** system for regional languages using **Tensorflow**, **achieving 92% Acc**.
+        - **Pioneered a revenue stream** and made the printed content more accessible for the visually impaired by **digitizing 10k+ old printed books** to accessible digital formats utilizing **Vision OCR** and **GCP**. Used in-house OCR systems for regional languages not yet available vis Vision OCR services.
+        - **Directed usability tests** on an in-house mobile application (KIBO) to understand educational requirements of visually impaired and designed features of **audio highlighting**, **content summarization**, and auto-linking content with additional online resources.
         - Designed a responsive website for Trestle Labs to collect customer feedbacks and promote the service.
   - role: Resident Innovator
     time: 01/2018 - 06/2018
     company: Trestle Labs, Nashik, India
     details: |
       DISQ is a social entrepreneurship and innovation facility by Tata Consultancy Services(TCS, India).
-        - One of the 40 students selected across the geography of India for the Social Innovation fellowship. The fellowship experience included learning opportunities from experts in the field as well as applying the learnings to real-world challenges.
+        - **One of the 40 students selected across the geography of India** for the Social Innovation fellowship. The fellowship experience included learning opportunities from experts in the field as well as applying the learnings to real-world challenges.
         - Worked to solve global challenges from varied domains, such as enhancing the learning experience for the visually impaired, to increasing the shelf life of perishable food in remote areas where electricity is yet to come.
         - Together with sharpening technical skills, also worked on user experience, financial and marketing aspect of the idea to create a sustainable solution.
         - Pitched the solutions to many potential investors and continuously improved on the business aspects as well as to gain communication and leadership skills in a corporate environment.
