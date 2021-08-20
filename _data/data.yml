@@ -113,7 +113,7 @@ experiences:
 
 
 projects:
-  - title: Real-Time Automated Trending by analyzing Social Media and News 
+  - title: Real-Time Automated Trending by analyzing Social Media 
     time: 05/2021 - 06/2021
     company: Hobby Project
     details: |
@@ -121,10 +121,11 @@ projects:
       - Conducted a time-series analysis to engineer features based on financial market anomalies such as the day of the week effect.
       - Programmed a market prediction function using **random forest** using an ensemble of sentiment analysis, stock indicators, and market anomalies on **AWS Lambda** and connected the prediction function with **Alpaca API** to automate the trading process.
   
-  - title: HearCough - Graduate Thesiss (Research on privacy-preserving real-time cough detection)
+  - title: HearCough - Graduate Thesiss 
     time: 09/2020 - 04/2021
     company: Tsinghua University
     details: |
+      - Research on privacy-preserving real-time cough detection
       - Conducted **market research** to verify the need for **privacy-preserving** and ubiquitous respiratory symptom tracking devices.
       - Constructed an **end-to-end audio classification** model using **PyTorch**, eliminating the need for acoustic data preprocessing.
       - Optimized and deployed audio classification model on the TWS earphones utilizing **quantization** and **CMSIS-NN** implementation to **monitor physiological respiratory indicators such as Cough, Sneezing, and Wheezing with 97% accuracy**.
@@ -183,6 +184,28 @@ publications:
       conference: "International Conference on Computing, Communications, and Cyber-Security (IC4S 2019)"
 
 skills:
+  title: Skills &amp; Proficiency
+
+  toolset:
+    - name: Python & Django
+      level: 98%
+
+    - name: Javascript & jQuery
+      level: 98%
+
+    - name: Angular
+      level: 98%
+
+    - name: HTML5 & CSS
+      level: 95%
+
+    - name: Ruby on Rails
+      level: 85%
+
+    - name: Sketch & Photoshop
+      level: 60%
+
+skills2:
   title: Skills &amp; Proficiency
 
   toolset:
