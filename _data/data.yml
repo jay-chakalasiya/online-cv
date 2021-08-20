@@ -113,33 +113,54 @@ experiences:
 
 
 projects:
+  - title: Real-Time Automated Trending by analyzing Social Media and News 
+    time: 05/2021 - 06/2021
+    company: Hobby Project
+    details: |
+      - Repurposed **BERT to analyze the sentiment of Tweets** and FinViz using **Tweepy** and **Scrapy** while eliminating spam content.
+      - Conducted a time-series analysis to engineer features based on financial market anomalies such as the day of the week effect.
+      - Programmed a market prediction function using **random forest** using an ensemble of sentiment analysis, stock indicators, and market anomalies on **AWS Lambda** and connected the prediction function with **Alpaca API** to automate the trading process.
+  
+  - title: HearCough - Graduate Thesiss (Research on privacy-preserving real-time cough detection)
+    time: 09/2020 - 04/2021
+    company: Tsinghua University
+    details: |
+      - Conducted **market research** to verify the need for **privacy-preserving** and ubiquitous respiratory symptom tracking devices.
+      - Constructed an **end-to-end audio classification** model using **PyTorch**, eliminating the need for acoustic data preprocessing.
+      - Optimized and deployed audio classification model on the TWS earphones utilizing **quantization** and **CMSIS-NN** implementation to **monitor physiological respiratory indicators such as Cough, Sneezing, and Wheezing with 97% accuracy**.
+      - Submitted the findings at **Ubicomp comference - August 2021**.
+
   - title: Osseus - Fracture Detection
     time: 01/2020 - 06/2020
     company: University of Washington
     details: |
-      - Developed an algorithm to detect bone fractures from the acoustic response, using DSP techniques(using Librosa) and ML.
-      - Deployed algorithm on the mobile platform by developing a mobile application using Flutter and hosted backend on Azure.
-      - Achieved over 95% accuracy except for smaller bones(like fingers bones ~70% accuracy), published the results in IEEE-GHTC-2020.
+      - Created a **Decision Tree classifier** to detect bone fractures by inducing acoustic resonance in bones using sound waves.
+      - **Designed wire-frames** for mobile application UI, **conducted usability tests**, and created animated video tutorials.
+      - Built a platform-agnostic mobile app using **Flutter** and connected it with fracture detection API deployed in **Azure**.
+      - Recognized by **IEEE-GHTC-2020** for developing a **92% accurate**, **low-cost** and **non-invasive fracture detection system** inteded to use in rural low resource areas in 3rd world nations.
+
   - title: Global Wheat Detection
     time: 04/2020 - 06-2020
     company: Personal Project @ Kaggle
     details: |
-      - Implemented transfer learning on the state of the art object detection algorithms including DETR, Efficient-DET, Faster RCNN, RetinaNet and YOLOv5. Achieved highest MAP score of 0.65.
+      - Implemented transfer learning on the state of the art object detection algorithms including **DETR**, **Efficient-DET**, **Faster RCNN**, **RetinaNet** and **YOLOv5** to detect wheat heads from crop images. Achieved highest MAP score of 0.65.
       - Used NMS(Non-Maximal Suppression) to make ensembles from above-described models and improved score to 0.69.
-      - Replaced NMS by implementing WBF(Weighted Box Fusion), which increased the score to 0.71.
-      - At last implemented Pseudo-labelling, to deal with a smaller dataset, which resulted in a final score of 0.725.
+      - Replaced NMS by implementing **WBF(Weighted Box Fusion)**, which increased the score to 0.71.
+      - At last implemented **Pseudo-labelling**, to deal with a smaller dataset, which resulted in a **final score of 0.725. (top 10%)**
+
   - title: Content virality prediction on Twitter data
     time: 01/2019 - 04-2019
     company: Hobby project
     details: |
-      - Used Tweepy to extract the 50K Tweets, extracted Tweet sentiment and context using NLTK, as well as extracted Twitter user properties by Clique analysis(NetworkX). Achieved 75% accuracy in tweet virality prediction using Random-Forest algorithm(sklearn).
+      - Used Tweepy to extract the **50K Tweets**, extracted Tweet sentiment and context using **NLTK**, as well as extracted graph based features of Twitter users by performing **Clique and Community analysis(NetworkX)**. Achieved 75% accuracy in tweet virality prediction using **Random-Forest algorithm(sklearn)**.
+
   - title: Financial Market Anomaly Analysis
     time: 01/2017 - 11/2017
     company: Nirma University
     details: |
-      - Engineered statistical evidence for the time-dependent recurring market anomalies(day of the week, the month of the year, etc.).
-      - Developed a 1D CNN based approach to detect the binary market movement for individual stocks based on historical data.
-      - Increased accuracy of the model by 7%, using market anomalies as an indicator as compared to solely using traditional indicators.
+      - **Engineered statistical evidence** for the time-dependent recurring **market anomalies(day of the week, the month of the year, etc.)**.
+      - Developed a **1D CNN** based approach to detect the binary market movement for individual stocks based on historical data.
+      - **Achieved 7% better accuracy** utilizing ensemble of traditional stock indicators and features based on market anomalies as compared to solely using traditional indicators.
 
 
 
